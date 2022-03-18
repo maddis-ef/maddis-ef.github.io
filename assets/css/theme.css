@@ -4974,6 +4974,10 @@ fieldset:disabled .btn {
     .navbar-expand-sm .navbar-toggler {
         display: none;
     }
+	.dropdown {
+		padding-right: 0.5rem;
+        padding-left: 0.5rem;
+	}
 }
 
 @media (min-width: 768px) {
@@ -5010,6 +5014,10 @@ fieldset:disabled .btn {
     .navbar-expand-md .navbar-toggler {
         display: none;
     }
+	.dropdown {
+		padding-right: 0.5rem;
+        padding-left: 0.5rem;
+	}
 }
 
 @media (min-width: 992px) {
@@ -5046,6 +5054,10 @@ fieldset:disabled .btn {
     .navbar-expand-lg .navbar-toggler {
         display: none;
     }
+	.dropdown {
+		padding-right: 0.5rem;
+        padding-left: 0.5rem;
+	}
 }
 
 @media (min-width: 1200px) {
@@ -5082,6 +5094,10 @@ fieldset:disabled .btn {
     .navbar-expand-xl .navbar-toggler {
         display: none;
     }
+	.dropdown {
+		padding-right: 0.5rem;
+        padding-left: 0.5rem;
+	}
 }
 
 @media (min-width: 1540px) {
@@ -5118,6 +5134,10 @@ fieldset:disabled .btn {
     .navbar-expand-xxl .navbar-toggler {
         display: none;
     }
+	.dropdown {
+		padding-right: 0.5rem;
+        padding-left: 0.5rem;
+	}
 }
 
 .navbar-expand {
