@@ -17719,6 +17719,13 @@ ul {
     z-index: 0;
 }
 
+.bg-img {
+	background-image: url("../img/illustrations/conexao-maddis.png");
+	background-position:right bottom;
+	background-size:contain;
+	margin-top:-2.25rem;
+}
+
 .bg-holder.bg-right {
     left: auto;
     right: 0;
