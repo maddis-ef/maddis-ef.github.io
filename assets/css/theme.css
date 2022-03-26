@@ -4700,6 +4700,7 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
+	color: #f2cb07 !important;
 	text-decoration: none;
 }
 
